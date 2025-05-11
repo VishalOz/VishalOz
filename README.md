@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fYfOjoOlbpBvO/giphy.gif" alt="Duck Dodgers GIF" width="500"/>
+  <img src="https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif" alt="Rick and Morty GIF" width="500"/>
 </p>
-
-
 
 
 ## 📊 GitHub Stats
