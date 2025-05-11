@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fX6z2V7aXzh8tSMJ7Z/giphy.gif" alt="Duck Dodgers GIF" width="500"/>
+  <img src="https://media.tenor.com/3E4bD9e6zQ8AAAAC/duck-dodgers.gif" alt="Duck Dodgers GIF" width="500"/>
 </p>
 
 
