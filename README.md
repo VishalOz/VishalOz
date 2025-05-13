@@ -1,10 +1,24 @@
+## Hi there 👋
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bbi1c7N6rjJz0Q/giphy.gif" alt="Sharingan GIF" width="500"/>
+  <img src="https://media.giphy.com/media/kDg1bNCUZsUpmBdMwA/giphy.gif" alt="Rick and Morty GIF" width="300"/>
 </p>
 
 
 
-<p align="left">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalOz&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+
+
+## 🚀 Tools & Technologies I Use
+
+<p align="left"><p align="left">
   <!-- Core Development Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -16,3 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
+</p>
+
+
+
