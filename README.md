@@ -26,9 +26,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalOz&theme=tokyonight&hide_border=true" height="180"/>
+<p align-items="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalOz&theme=tokyonight&hide_border=true" height="150"/>
 
   <p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlwanVlOGRjcWZrcnZzb2M4b3dpYm8weGc4Y3U3ejg0bm91YTJtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvpjW5tiu6cDK/giphy.gif" width="890px" height="200px"/>
