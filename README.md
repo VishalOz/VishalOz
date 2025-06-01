@@ -1,5 +1,9 @@
 # V  I  S  H  A  L 
 #### Full-Stack Developer | UI/UX Enthusiast 
+######  Curious about everything |  Learning daily |  Turning "What if?" into "Here's how!" 
+ <p>
+  <img src="https://media.tenor.com/roTxSvv-ZRQAAAAM/bert.gif" height="200px "width=200px" />
+</p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/VishalOz?label=Follow&style=social)](https://github.com/VishalOz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vish_oz?style=social)](https://twitter.com/vishal_oshada)
@@ -30,9 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalOz&theme=tokyonight&hide_border=true" height="170"/>
 
-  <p>
-  <img src="https://media.tenor.com/roTxSvv-ZRQAAAAM/bert.gif" width=100%"/>
-</p>
+ 
   
 
 ---
