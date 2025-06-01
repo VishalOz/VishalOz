@@ -2,7 +2,7 @@
 #### Full-Stack Developer | UI/UX Enthusiast 
 
 [![GitHub Followers](https://img.shields.io/github/followers/VishalOz?label=Follow&style=social)](https://github.com/VishalOz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/vishal_oshada)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vish_oz?style=social)](https://twitter.com/vishal_oshada)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vishal_sudasinghe)
 
 ---
