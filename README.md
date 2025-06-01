@@ -2,7 +2,7 @@
 #### Full-Stack Developer | UI/UX Enthusiast 
 ######  Curious about everything |  Learning daily |  Turning "What if?" into "Here's how!" 
  <p>
-  <img src="https://media.tenor.com/roTxSvv-ZRQAAAAM/bert.gif" height="200px "width=200px" />
+  <img src="https://necessarydisorder.wordpress.com/wp-content/uploads/2019/02/agif2.gif" height="100px "width=300px" />
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/VishalOz?label=Follow&style=social)](https://github.com/VishalOz)
