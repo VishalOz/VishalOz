@@ -1,8 +1,8 @@
 # V  I  S  H  A  L 
 #### Full-Stack Developer | UI/UX Enthusiast 
-######  Curious about everything |  Learning daily |  Turning "What if?" into "Here's how!" 
- <p>
-  <img src="https://necessarydisorder.wordpress.com/wp-content/uploads/2019/02/agif2.gif" height="100px "width=300px" />
+###### Curious about everything | Learning daily | Turning "What if?" into "Here's how!" 
+<p>
+  <img src="https://necessarydisorder.wordpress.com/wp-content/uploads/2019/02/agif2.gif" height="100px" width="300px" />
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/VishalOz?label=Follow&style=social)](https://github.com/VishalOz)
@@ -22,7 +22,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 
-
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -30,15 +29,15 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
-<p align-items="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalOz&theme=tokyonight&hide_border=true" height="170"/>
-
- 
-  
+</p>
 
 ---
-◾️ Email: oshadavishal392@gmial.com
-◾️Instagram: https://instagram.com/vish_oz
+◾️ Email: oshadavishal392@gmail.com  
+◾️ Instagram: https://instagram.com/vish_oz  
 
+---
 
+![Snake animation](https://github.com/VishalOz/VishalOz/blob/output/github-contribution-grid-snake.svg)
