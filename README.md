@@ -2,7 +2,7 @@
 #### Full-Stack Developer | UI/UX Enthusiast 
 ###### Curious about everything | Learning daily | Turning "What if?" into "Here's how!" 
 <p>
-  <img src="https://necessarydisorder.wordpress.com/wp-content/uploads/2019/02/agif2.gif" height="100px" width="300px" />
+  <img src="https://necessarydisorder.wordpress.com/wp-content/uploads/2019/02/agif2.gif" height="100px" width="900px" />
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/VishalOz?label=Follow&style=social)](https://github.com/VishalOz)
@@ -33,10 +33,21 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalOz&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- GitHub Stats Card with Cache Refresh -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="170"/>
+
+  <!-- GitHub Streak Stats (Stable Mirror) -->
+  <img src="https://streak-stats.demolab.com?user=VishalOz&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<!-- Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalOz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 
 ---
 ◾️ Email: oshadavishal392@gmail.com  
