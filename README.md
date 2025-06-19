@@ -21,6 +21,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
+
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
@@ -38,6 +42,4 @@
 ◾️ Email: oshadavishal392@gmail.com  
 ◾️ Instagram: https://instagram.com/vish_oz  
 
----
 
-![Snake animation](https://github.com/VishalOz/VishalOz/blob/output/github-contribution-grid-snake.svg)
