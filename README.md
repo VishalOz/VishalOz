@@ -36,8 +36,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-
 <p align="center">
   <!-- GitHub Stats Card with Cache Refresh -->
   <img src="https://github-readme-stats.vercel.app/api?username=VishalOz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="170"/>
