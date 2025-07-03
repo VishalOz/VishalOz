@@ -3,6 +3,7 @@
 ###### Curious about everything | Learning daily | Turning "What if?" into "Here's how!" 
 <p>
   <img src="https://necessarydisorder.wordpress.com/wp-content/uploads/2019/02/agif2.gif" height="100px" width="900px" />
+  <img src="https://camo.githubusercontent.com/d5b8023397c632e791d495987bd0dcb4af3d3b3439dce25031c8f1fd46b87b43/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" height="50px" width="60px"/> 
 </p>
 
 [![GitHub Followers](https://img.shields.io/github/followers/VishalOz?label=Follow&style=social)](https://github.com/VishalOz)
