@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/d5b8023397c632e791d495987bd0dcb4af3d3b3439dce25031c8f1fd46b87b43/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" height="260px" width="500px"/>
+  <img src="[https://camo.githubusercontent.com/d5b8023397c632e791d495987bd0dcb4af3d3b3439dce25031c8f1fd46b87b43/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966](https://tenor.com/en-GB/view/programming-gif-24316523)" height="260px" width="500px"/>
 </p>
 
 <!-- ⚛️ Custom Circular Tech Stack Highlight -->
