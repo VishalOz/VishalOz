@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-VishalOz-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/VishalOz)
 [![Twitter](https://img.shields.io/badge/Twitter-@vishal__oshada-0d0d0d?style=for-the-badge&logo=twitter&logoColor=00FF41)](https://twitter.com/vishal_oshada)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/vishal_sudasinghe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/vishal-sudasinghe-082306332)
 [![Instagram](https://img.shields.io/badge/Instagram-@vish__oz-0d0d0d?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/vish_oz)
 [![Email](https://img.shields.io/badge/Gmail-oshadavishal392-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:oshadavishal392@gmail.com)
 [![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕-0d0d0d?style=for-the-badge&logo=buymeacoffee&logoColor=00FF41)](https://www.buymeacoffee.com/yourlink)
