@@ -1,4 +1,4 @@
-name: Generate Snake
+name: generate-snake
 
 on:
   schedule:
@@ -10,17 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: VishalOz
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github_user_name: YOUR_USERNAME
+          outputs: dist/github-snake.svg
 
-      - name: Push snake to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          name: snake
+          path: dist/github-snake.svg
+
+      - name: Deploy to output branch
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git clone --depth=1 https://github.com/${{ github.repository }} repo
+          cd repo
+          git checkout -B output
+          cp ../dist/github-snake.svg .
+          git add github-snake.svg
+          git commit -m "update snake" || echo "no changes"
+          git push origin output --force
