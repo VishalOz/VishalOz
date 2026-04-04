@@ -1,9 +1,3 @@
-<div align="center">
-<img src="https://gifer.com/en/C3Ze" 
-     alt="Sharingan Eye" 
-     width="100%" 
-     style="border-radius: 12px; opacity: 0.9;" />
-
   <!-- Enhanced Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1200&color=00FF41&center=true&vCenter=true&width=780&lines=root%40kali:~%23%20nmap%20-sV%20--open%20vishal.dev%3B%20%5B%2B%5D%2012%20open%20ports...%3Broot%40kali:~%23%20sqlmap%20-u%20target%20--dbs%3B%20%5B%2B%5D%20creativity.db%20found%3Broot%40kali:~%23%20hydra%20-l%20vishal%20-P%20skills.txt%3B%20%5BSUCCESS%5D%20neverStopBuilding%21%3Broot%40kali:~%23%20msfconsole%3B%20use%20exploit%2Ffullstack%2Fdeveloper%3B%20PAYLOAD%3Dreact%2Bnode%2Bjava%3Broot%40kali:~%23%20whoami%3B%20Vishal%20%E2%9E%9C%20Full-Stack%20Dev%20%7C%20UI%2FUX%20Hacker" 
        alt="Hacker Terminal Typing" />
